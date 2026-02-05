@@ -1,0 +1,16 @@
+{
+  "name": "nyx-bot",
+  "version": "1.0.0",
+  "description": "Discord economy bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "mongoose": "^7.6.0"
+  }
+}
